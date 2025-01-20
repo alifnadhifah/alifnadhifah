@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Alif Ranadian Nadhifah**.
 
-Saya seorang **Lulusan 2024 Jurusan S1 Informatika** di [Telkom University](https://telkomuniversity.ac.id/).
+Saya seorang **Lulusan tahun 2024 jurusan S1 Informatika** di [Telkom University](https://telkomuniversity.ac.id/).
 <!--
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
